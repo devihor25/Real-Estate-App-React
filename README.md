@@ -39,24 +39,6 @@ $ npm start
 go to http://localhost:3000/
 
 ```
-
-### Run the project with Docker
-
-```bash
-
-#Clone the integration repo
-$ git clone https://github.com/DamyanBG/real-estate-integration
-
-# Add .env files
-
-# Build the image
-$ docker-compose build
-
-# Run the application
-$ docker-compose up
-
-```
-
 ### Integrate the backend
 
 Since this is the Front end of the application, you will need the back end to run (since I do not host anymore the project on Azure).
