@@ -27,7 +27,7 @@ property listings, realtors and contact inquiries in the admin area.
 $ git clone https://github.com/devihor25/Real-Estate-App-React.git
 
 # Enter the project folder in the terminal
-$ cd real-estate-react-app
+$ cd Real-Estate-App-React
 
 # Install all the dependencies
 $ npm install
