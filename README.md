@@ -24,7 +24,7 @@ property listings, realtors and contact inquiries in the admin area.
 ```bash
 
 # Clone the repository
-$ git clone https://github.com/DamyanBG/real-estate-react-app.git
+$ git clone https://github.com/devihor25/Real-Estate-App-React.git
 
 # Enter the project folder in the terminal
 $ cd real-estate-react-app
